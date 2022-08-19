@@ -1,4 +1,10 @@
 ### Olá, eu sou o AlphaJR. Estudante de programação e desenvolvedor.
+
+  <div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alphajr36&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphajr36&layout=compact&langs_count=7&theme=prussian"/>
+</div>
   
   ### Linguagens de programação
 <div style="display: inline_block"><br>
@@ -6,6 +12,7 @@
   <img align="center" alt="AlphaJR36-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AlphaJR36-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AlphaJR36-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=472&height=472">
 </div>
   
   ### Meios de contacto
