@@ -7,12 +7,14 @@
   
   ### Linguagens de programação
 <div style="display: inline_block"><br>
-  <img align="center" alt="AlphaJR36-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="AlphaJR36-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="AlphaJR36-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
+  <img align="center" alt="AlphaJR36-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AlphaJR36-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AlphaJR36-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AlphaJR36-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="AlphaJR36-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="Alpha-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=472&height=472">
+  <img align="right" alt="Alpha-pic" height="150" style="border-radius:50px;"
+  src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=472&height=472">
 </div>
   
   ### Meios de contacto
