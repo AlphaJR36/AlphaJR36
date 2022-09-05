@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlphaJR36&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
   
-  ### Linguagens de programação
+  ### Tecnologias que uso
 <div style="display: inline_block"><br>
   <img align="center" alt="AlphaJR36-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="AlphaJR36-LUA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
