@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
- <img align="right" alt="AlphaJR" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="right" alt="AlphaJR" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=472&height=472">
  
 ### Studying:
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -29,6 +29,5 @@
 
 <a href = "https://discord.gg/GzCPcVTQ5p"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "mailto:alphajrdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <img width=100% herf="" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
