@@ -27,7 +27,7 @@
 
 ### Contact:
 
-<a href = "https://discord.gg/GzCPcVTQ5p"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "https://discord.gg/GzCPcVTQ5p" target="_blank"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117"></a>
 <a href = "mailto:alphajrdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 <img width=100% herf="" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
