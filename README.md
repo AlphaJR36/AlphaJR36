@@ -4,7 +4,8 @@
 </a>
   
 <div align="center">  
-  
+  <a href = "#"><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alphajr36&show_icons=true&count_private=true&hide_border=true&title_color=007fff&icon_color=007fff&text_color=c9d1d9&bg_color=0d1117" alt="AlphaJR's GitHub Stats" target="_blank"></a>
+  <a href = "#"><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphajr36&layout=compact&hide_border=true&title_color=007fff&text_color=007fff&bg_color=0d1117" target="_blank"></a>
 </div>
 
 ### Skills:
