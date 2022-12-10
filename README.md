@@ -19,7 +19,7 @@
 <a href = "#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" target="_blank"></a>
 
- <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:100px;" src="assets/img/AlphaJR_Logo.png" target="_blank"></a>
+ <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:100%;" src="assets/img/AlphaJR_Logo.png" target="_blank"></a>
  
 ### Studying:
 <a href = "#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
