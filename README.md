@@ -19,7 +19,7 @@
 <a href = "#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" target="_blank"></a>
 
- <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=472&height=472" target="_blank"></a>
+ <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:100px;" src="assets/img/AlphaJR_Logo.png" target="_blank"></a>
  
 ### Studying:
 <a href = "#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
@@ -28,7 +28,7 @@
 
 ### Contact:
 
-<a href = "https://discord.gg/GzCPcVTQ5p"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "https://discord.com/users/921882398084452374"><img src="https://img.shields.io/badge/-discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "mailto:alphajrdev@gmail.com"><img src="https://img.shields.io/badge/-gmail-0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 
 <a href = "#"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007fff&height=120&section=footer" target="_blank"></a>
