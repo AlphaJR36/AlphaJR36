@@ -19,6 +19,7 @@
 <a href = "#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-PowerShell-0D1117?style=for-the-badge&logo=powershell&labelColor=0D1117" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117" target="_blank"></a>
 
  <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:100%;" src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=473&height=473" target="_blank"></a>
  
