@@ -14,6 +14,8 @@
 <a href = "#"><img src="https://img.shields.io/badge/-lua-0D1117?style=for-the-badge&logo=lua&logoColor=1572B6&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/-Electron-0D1117?style=for-the-badge&logo=electron&labelColor=0D1117" target="_blank"></a>
 
 ### Tools:
 <a href = "#"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117" target="_blank"></a>
@@ -21,7 +23,6 @@
 <a href = "#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-PowerShell-0D1117?style=for-the-badge&logo=powershell&labelColor=0D1117" target="_blank"></a>
-<a href = "#"><img src="https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117" target="_blank"></a>
 
  <a href = "#"><img align="right" alt="AlphaJR" height="150" style="border-radius:100%;" src="https://media.discordapp.net/attachments/998196275558219797/1010253880157810719/AlphaJR.png?width=473&height=473" target="_blank"></a>
  
